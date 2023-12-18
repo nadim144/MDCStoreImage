@@ -3,13 +3,4 @@
 ################################################################################
 
 /.vs/MDCStoreImage/v16
-/Build
-/MDCStorageImageExe/bin/Release
-/MDCStorageImageExe/obj
-/MDCStoreImageLib/Debug
-/MDCStoreImageLib/Release
-/MDCStoreImageLib/Win32/Debug
-/MDCStoreImageLib/Win32/Release
-/MDCStoreImageLib/x64/Debug
-/MDCStoreImageLib/x64/Debug
-/MDCStoreImageLib/x64/Release
+
