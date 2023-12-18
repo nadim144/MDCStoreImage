@@ -4,3 +4,7 @@
 
 /.vs/MDCStoreImage/v16
 
+/MDCStorageImageLib/Win32
+/MDCStorageImageLib/x64
+/MDCStorageImageLib/Debug
+/MDCStorageImageExe/bin/Release
