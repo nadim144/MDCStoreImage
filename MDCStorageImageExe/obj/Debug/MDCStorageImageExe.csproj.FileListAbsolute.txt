@@ -1,6 +1,0 @@
-D:\Sudhakar\MDCStoreImage\Build\MDCStorageImageExe.exe.config
-D:\Sudhakar\MDCStoreImage\Build\MDCStorageImageExe.exe
-D:\Sudhakar\MDCStoreImage\Build\MDCStorageImageExe.pdb
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\obj\Debug\MDCStorageImageExe.csproj.CoreCompileInputs.cache
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\obj\Debug\MDCStorageImageExe.exe
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\obj\Debug\MDCStorageImageExe.pdb

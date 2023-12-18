@@ -1,7 +1,0 @@
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\bin\Release\MDCStorageImageExe.exe.config
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\bin\Release\MDCStorageImageExe.exe
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\bin\Release\MDCStorageImageExe.pdb
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\obj\Release\MDCStorageImageExe.csproj.AssemblyReference.cache
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\obj\Release\MDCStorageImageExe.csproj.CoreCompileInputs.cache
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\obj\Release\MDCStorageImageExe.exe
-D:\Sudhakar\MDCStoreImage\MDCStorageImageExe\obj\Release\MDCStorageImageExe.pdb
